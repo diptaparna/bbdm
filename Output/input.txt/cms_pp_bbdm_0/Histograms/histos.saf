@@ -1,0 +1,36 @@
+<SAFheader>
+</SAFheader>
+
+<Histo>
+<Description>
+"MET after SR1 cuts"
+# nbins        xmin           xmax           
+8              200            600            
+# associated RegionSelections
+ SR1                                               # Region nr. 1
+</Description>
+<Statistics>
+0 0 # nevents
+0 0 # sum of event-weights over events
+0 0 # nentries
+0 0 # sum of event-weights over entries
+0 0 # sum weights^2
+0 0 # sum value*weight
+0 0 # sum value^2*weight
+</Statistics>
+<Data>
+0 0 # underflow
+0 0 # bin 1 / 8
+0 0 # bin 2 / 8
+0 0
+0 0
+0 0
+0 0
+0 0 # bin 7 / 8
+0 0 # bin 8 / 8
+0 0 # overflow
+</Data>
+</Histo>
+
+<SAFfooter>
+</SAFfooter>
