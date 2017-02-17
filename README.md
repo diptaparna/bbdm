@@ -3,11 +3,15 @@ MadAnalysis recasting code for CMS-PAS-B2G-15-007
 
 # How to Use
 First download MadAnalysis5 v1.3 and extract it into convenient rocation.
+
 Then cd into the madanalysis5 directory and run ./bin/ma5, it will perform all the initial checks.
+
 Use the following commands in MadAnalysis interactive shell -
 
 install zlib
+
 install fastjet
+
 install delphes
 
 If root is not configured globally, also execute this command -
